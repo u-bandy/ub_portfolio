@@ -2,7 +2,7 @@
   --bg:#ffffff;--ink:#0a0a0a;--mute:#5a5a5a;--line:#e4e4e4;
   --blue:#1f3dff;--onblue:#ffffff;--panel:#0a0a0a;--onpanel:#ffffff;--chip:#f3f3f3;
   --music:var(--blue);--onmusic:var(--onblue);--accent2:var(--blue);--olive:var(--chip);--onolive:var(--ink);
-  --head:"Space Grotesk",system-ui,sans-serif;--body:"Inter",system-ui,sans-serif;
+  --head:"Bricolage Grotesque",system-ui,sans-serif;--body:"Inter",system-ui,sans-serif;
 }
 @media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){--bg:#0a0a0a;--ink:#f5f5f5;--mute:#a3a3a3;--line:#262626;--blue:#3d5cff;--panel:#161616;--chip:#181818}
